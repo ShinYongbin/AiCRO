@@ -73,7 +73,7 @@ public class DataAnalysis
 	static String nowFilePath = "";
 	static int iPatientIDX = 0;
 	static int inowPaintent = 1;
-	static int iStartidx = 139;
+	static int iStartidx = 153;
 	
 	
 	class Descending implements Comparator<Integer> {
